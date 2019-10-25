@@ -6,7 +6,6 @@
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-google-charts": "^3.0.15",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -32,6 +31,7 @@
   },
   "devDependencies": {
     "@material-ui/core": "^4.5.1",
-    "@material-ui/icons": "^4.5.1"
+    "@material-ui/icons": "^4.5.1",
+    "react-google-charts": "^3.0.15"
   }
 }
